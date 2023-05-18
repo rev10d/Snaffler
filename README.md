@@ -7,7 +7,7 @@
 
 ### Fork tampering
 
-unsure how to build with multiple solution files. lazy answers unavailable in during troubleshooting window.
+unsure how to build with multiple solution files. lazy answers unavailable during troubleshooting window.
 
 ## What is it for? 
 
